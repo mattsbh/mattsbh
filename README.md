@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/d26bb6db-f053-49cb-91eb-a1cfd59cadc9" width="70%" height="auto"/>
 <!-- Header Banner -->
 <div align="left">
   <h1>Hi there, I'm Matt 👋</h1>
@@ -30,11 +31,11 @@ I'm the CEO and Lead Developer at cyra.sh, where we're building the future of pr
 ## GitHub Stats 📊
 <div align="left">
   
-[![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matt&show_icons=true&theme=minimal)](https://github.com/mattsbh)
+[![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattsbh&show_icons=true&theme=minimal)](https://github.com/mattsbh)
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matt&layout=compact&theme=minimal)](https://github.com/mattsbh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattsbh&layout=compact&theme=minimal)](https://github.com/mattsbh)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matt&theme=minimal)](https://github.com/mattsbh)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mattsbh&theme=minimal)](https://github.com/mattsbh)
 </div>
 
 ## Get in Touch 📫
