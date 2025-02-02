@@ -4,7 +4,7 @@
   <h1>Hi there, I'm Matt 👋</h1>
   <h3>CEO & Lead Developer at cyra.sh | Web3 × AI Developer</h3>
   
-  [![Email](https://img.shields.io/badge/Email-matt%40cyra.sh-red?style=flat-square&logo=gmail)](mailto:matt@cyra.sh)
+  [![Email](https://img.shields.io/badge/Email-hi%40matt.place-red?style=flat-square&logo=gmail)](mailto:hi@matt.place)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/mattsbh)
 </div>
 
@@ -39,8 +39,8 @@ I'm the CEO and Lead Developer at cyra.sh, where we're building the future of pr
 </div>
 
 ## Get in Touch 📫
-- Email: [matt@cyra.sh](mailto:matt@cyra.sh)
-- Website: [cyra.sh](https://cyra.sh)
+- Email: [hi@matt.place](mailto:hi@matt.place)
+- Website: [matt.place](https://matt.place)
 - Twitter: [@mattsbh](https://twitter.com/mattsbh)
 
 ---
