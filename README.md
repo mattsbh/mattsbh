@@ -1,5 +1,4 @@
 ![p1](https://github.com/user-attachments/assets/d8eb5eff-6d5a-4fe7-89c6-7073efdfd504)
-
 ---
 
 <details align="middle">
@@ -62,6 +61,4 @@
 </details>
 
 ---
-
-
 ![p2](https://github.com/user-attachments/assets/6e927ca2-d087-4f2a-9be4-fba2685bb938)
