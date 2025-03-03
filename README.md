@@ -63,4 +63,4 @@
 ---
 
 
-![Profile_Banner_with_text_cutted_bottom](https://user-images.githubusercontent.com/57369924/132963646-67d4a093-5629-43d7-ae03-76bc48dbd063.png)
+![p2](https://github.com/user-attachments/assets/6e927ca2-d087-4f2a-9be4-fba2685bb938)
