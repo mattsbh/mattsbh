@@ -33,13 +33,13 @@
 [comment]: <> (Most used languages)
 <summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
 <br />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daenges&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alandegree&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Alan" /></p>
 
 [comment]: <> (Github statistics)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=daenges&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=daenges /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alandegree&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt=Alan /> </p>
 
 [comment]: <> (Commit graph)
- <p align="center"> <img src="https://streak-stats.demolab.com?user=Daenges&theme=dracula&mode=weekly&fire=EB5454" alt=daenges />
+ <p align="center"> <img src="https://streak-stats.demolab.com?user=alandegree&theme=dracula&mode=weekly&fire=EB5454" alt=Alan />
 </details>
 
 
@@ -48,7 +48,7 @@
 [comment]: <> (Extend trophies)
 <details>
 <summary align="center">:trophy: Trophies :trophy:</summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daenges&amp;theme=dracula" alt="daenges" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alandegree&amp;theme=dracula" alt="Alan" /></a> </p>
 </details>
 
 ---
