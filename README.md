@@ -27,11 +27,11 @@
 
 ---
 
-[comment]: <> (Extend Catistics)
+[comment]: <> (Extend Statistics)
 <details>
 
 [comment]: <> (Most used languages)
-<summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
+<summary align="center">:chart_with_upwards_trend: Statistics :chart_with_downwards_trend:</summary>
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alandegree&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Alan" /></p>
 
