@@ -1,5 +1,4 @@
-![Profile_Banner_with_text_cutted_top](https://user-images.githubusercontent.com/57369924/132963641-5dc32b54-844c-4409-9eec-8f69ec03ba2c.png)
-
+![p1](https://github.com/user-attachments/assets/d8eb5eff-6d5a-4fe7-89c6-7073efdfd504)
 ---
 
 <details align="middle">
