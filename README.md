@@ -1,10 +1,11 @@
 ![p1](https://github.com/user-attachments/assets/d8eb5eff-6d5a-4fe7-89c6-7073efdfd504)
+
 ---
 
 <details align="middle">
 <summary>Open profile</summary>
 
----
+<br />
 
 [comment]: <> (View Counter)
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=alandegree&label=Visits&color=DD6387&style=flat" alt="alandegree" /> </p>
