@@ -6,8 +6,6 @@
 
 ---
 
-<br />
-
 [comment]: <> (View Counter)
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=alandegree&label=Visits&color=DD6387&style=flat" alt="alandegree" /> </p>
 
